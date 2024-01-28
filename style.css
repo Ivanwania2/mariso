@@ -48,7 +48,8 @@ html, body{ /* Remover todas as margens*/
 /*sub menu*/
 .dp-menu ul ul {
     display: none;
-    left: 0px; /*lado esquerdo*/
+    top: 17px;
+    left: 145px; /*lado esquerdo*/
     position: absolute;
     border: 2px solid #fff;
 }
